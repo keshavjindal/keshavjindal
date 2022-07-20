@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @keshavjindal
 - 👀 I’m interested in Softwares.
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently working on Blockchain.
+- 🌱 Previously, did many projects on MERN stack.
 - 📫 How to reach me: kes333hav@gmail.com
 
 <!---
