@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @keshavjindal
-- 👀 I’m interested in Softwares.
-- 🌱 I’m currently working on Blockchain.
-- 🌱 Previously, did many projects on MERN stack.
-- 📫 How to reach me: kes333hav@gmail.com
+- 👀 I’m interested in building scalable and reliable software systems.
+- Previously, I have interned at Amazon (Team: Alexa Communications), Zupee and Uxarmy.
+- 📫 How to reach me: kes333hav@gmail.com, kjj5491@psu.edu
 
 <!---
 keshavjindal/keshavjindal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
