@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keshavjindal
 - 👀 I’m interested in building scalable and reliable software systems.
-- Previously, I have interned at Amazon (Team: Alexa Communications), Zupee and Uxarmy.
+- Previously, I have interned twice at Amazon (Teams: AWS EC2 Curated Limits and Alexa Communications), Zupee and Uxarmy.
 - 📫 How to reach me: kes333hav@gmail.com, kjj5491@psu.edu
 
 <!---
