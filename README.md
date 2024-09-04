@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @keshavjindal
-- 👀 I’m interested in building scalable and reliable software systems.
+- 👀 I’m interested in building scalable and reliable software systems, full stack web and mobile apps.
 - Previously, I have interned twice at Amazon (Teams: AWS EC2 Curated Limits and Alexa Communications), Zupee and Uxarmy.
+- Website: https://keshavjindal.github.io/portfolio/
 - 📫 How to reach me: kes333hav@gmail.com, kjj5491@psu.edu
 
 <!---
